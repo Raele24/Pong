@@ -32,7 +32,7 @@ To install and run the Pong Game locally on your machine, follow these steps:
     ```bash
     git clone https://github.com/Raele24/Pong
     ```
-2. Open `pong.html`
+2. Open `index.html`
 
 ## How to Play
 
