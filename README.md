@@ -84,8 +84,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Contact
 
 If you have any questions, suggestions, or feedback, feel free to contact me at [giorcelli.rael@gmail.com](mailto:giorcelli.rael@gmail.com).
-
-#ITALIAN VERSION
+--------------------------------------------------------------------------------------------------------------------------------------------
+VERSIONE ITALIANA
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 # Gioco di Pong
 
