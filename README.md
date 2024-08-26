@@ -10,7 +10,6 @@ Welcome to the Pong Game! This is a classic arcade-style game inspired by the or
 - [How to Play](#how-to-play)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About the Game
@@ -81,10 +80,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
     git push origin my-new-feature
     ```
 5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
