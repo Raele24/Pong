@@ -84,3 +84,92 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Contact
 
 If you have any questions, suggestions, or feedback, feel free to contact me at [giorcelli.rael@gmail.com](mailto:giorcelli.rael@gmail.com).
+
+##ITALIAN VERSION
+
+# Gioco di Pong
+
+Benvenuto al Gioco di Pong! Questo è un classico gioco arcade ispirato all'originale Pong, con alcune modifiche e miglioramenti moderni.
+
+## Indice
+
+- [Informazioni sul Gioco](#informazioni-sul-gioco)
+- [Caratteristiche](#caratteristiche)
+- [Installazione](#installazione)
+- [Come Giocare](#come-giocare)
+- [Screenshot](#screenshot)
+- [Contributi](#contributi)
+- [Contatti](#contatti)
+
+## Informazioni sul Gioco
+
+Pong è un semplice gioco sportivo in 2D che simula il ping-pong. Questa versione mantiene il fascino retrò aggiungendo alcune nuove funzionalità e miglioramenti al gameplay.
+
+## Caratteristiche
+
+- **Modalità giocatore singolo**: Gioca contro il computer con livelli di difficoltà variabili.
+- **Modalità due giocatori**: Sfida un amico in modalità multiplayer locale.
+- **Tracciamento del punteggio**: Tieni traccia dei punteggi per ogni giocatore.
+- **Effetti sonori**: Effetti sonori autentici per migliorare l'esperienza.
+- **Design reattivo**: Funziona senza problemi su diverse dimensioni di schermo.
+
+## Installazione
+
+Per installare ed eseguire il Gioco di Pong localmente sul tuo computer, segui questi passaggi:
+
+1. Clona il repository:
+    ```bash
+    git clone https://github.com/Raele24/Pong
+    ```
+2. Apri `index.html`
+
+## Come Giocare
+
+### Modalità Giocatore Singolo
+
+- **Controlli Giocatore 1**:
+  - Muovi su: `W`
+  - Muovi giù: `S`
+
+### Modalità Due Giocatori
+
+- **Controlli Giocatore 1**:
+  - Muovi su: `W`
+  - Muovi giù: `S`
+- **Controlli Giocatore 2**:
+  - Muovi su: `Freccia su`
+  - Muovi giù: `Freccia giù`
+
+### Obiettivo
+
+Usa la tua racchetta per colpire la palla verso l'avversario. Il primo giocatore a raggiungere il punteggio prestabilito vince la partita.
+
+## Screenshot
+
+![Screenshot 2024-08-26 173433](https://github.com/user-attachments/assets/70b37a8b-89f4-48e5-aabf-b0dbb5fd0c1c)
+
+![Screenshot 2024-08-26 173452](https://github.com/user-attachments/assets/972c587a-cc6f-46df-acf1-da5859ecb143)
+
+## Contributi
+
+I contributi sono benvenuti! Se desideri contribuire a questo progetto, effettua un fork del repository e usa un branch dedicato alle funzionalità. Le pull request sono calorosamente benvenute.
+
+1. Effettua un fork del repository
+2. Crea il tuo branch per la funzionalità:
+    ```bash
+    git checkout -b my-new-feature
+    ```
+3. Committa le tue modifiche:
+    ```bash
+    git commit -am 'Aggiungi una funzionalità'
+    ```
+4. Effettua il push al branch:
+    ```bash
+    git push origin my-new-feature
+    ```
+5. Invia una pull request
+
+## Contatti
+
+Se hai domande, suggerimenti o feedback, non esitare a contattarmi all'indirizzo [giorcelli.rael@gmail.com](mailto:giorcelli.rael@gmail.com).
+
